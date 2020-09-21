@@ -1,6 +1,6 @@
 ﻿# node-api
 
-## Desenvolvendo uma Api em nodejs é mongodb
+## Desenvolvendo uma Api em nodejs e mongodb
 
 projeto criado com o intuito de construir uma api básica utilizando de recursos como nodeJs, docker, mongodb e express...
 
